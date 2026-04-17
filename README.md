@@ -15,7 +15,39 @@
   <img src="https://img.shields.io/badge/jurisdictions-51-green.svg?style=for-the-badge" alt="States"/>
   <img src="https://img.shields.io/badge/license-MIT-yellow.svg?style=for-the-badge" alt="License"/>
 </p>
+<h3 align="center">✅ Tested & Compatible With</h3>
 
+<p align="center">
+
+<!-- Scannit -->
+<span style="display:inline-block;padding:6px 14px;margin:4px;
+border:2px solid #9ca3af;border-radius:8px;
+font-family:Arial, sans-serif;font-size:14px;color:#111827;">
+  Scannit ✓
+</span>
+
+<!-- Show-Me ID -->
+<span style="display:inline-block;padding:6px 14px;margin:4px;
+border:2px solid #f59e0b;border-radius:8px;
+font-family:Arial, sans-serif;font-size:14px;color:#b45309;">
+  Show‑Me ID ✓
+</span>
+
+<!-- Veriscan -->
+<span style="display:inline-block;padding:6px 14px;margin:4px;
+border:2px solid #3b82f6;border-radius:8px;
+font-family:Arial, sans-serif;font-size:14px;color:#1d4ed8;">
+  Veriscan ✓
+</span>
+
+<!-- Regula -->
+<span style="display:inline-block;padding:6px 14px;margin:4px;
+border:2px solid #8b5cf6;border-radius:8px;
+font-family:Arial, sans-serif;font-size:14px;color:#6d28d9;">
+  Regula ✓
+</span>
+
+</p>
 <p align="center">
   <a href="#business-model">Business Model</a> •
   <a href="#features">Features</a> •
