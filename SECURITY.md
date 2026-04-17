@@ -190,8 +190,8 @@ _(No entries yet - be the first!)_
 ## Contact
 
 For security concerns:
-- GitHub: [Security Advisories](../../security/advisories)
-- Email: security@[your-domain]
+- Telegram: @Blackwolfisme
+- Email: Telegrambotcreator@proton.me
 
 ---
 
